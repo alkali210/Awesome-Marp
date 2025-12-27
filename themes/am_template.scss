@@ -339,7 +339,7 @@ section.cover_e footer>img {
 } 
 
 section.cover_e header>img {
-  transform: scale(0.88);
+  transform: scale(1) translateY(7.5px);
   background-color: rgba(255, 255, 255, 0);
   background-blend-mode: lighten;
   filter: brightness(3000%) grayscale(100%);
@@ -365,7 +365,7 @@ section.cover_e header {
   top: 0px;
   left: 80px;
   text-align: center;
-  vertical-align:middle; 
+  vertical-align: middle; 
 }
 
 

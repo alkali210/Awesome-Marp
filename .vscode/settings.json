@@ -1,12 +1,15 @@
 {
   "markdown.marp.html": true,
   "markdown.marp.themes": [
-    "./themes/am_blue.scss",
-    "./themes/am_green.scss",
-    "./themes/am_red.scss",
-    "./themes/am_dark.scss",
-    "./themes/am_brown.scss",
-    "./themes/am_purple.scss",
-    "./themes/am_template.scss",
-  ]
+    "./awesome-marp/themes/am_blue.scss",
+    "./awesome-marp/themes/am_green.scss",
+    "./awesome-marp/themes/am_red.scss",
+    "./awesome-marp/themes/am_dark.scss",
+    "./awesome-marp/themes/am_brown.scss",
+    "./awesome-marp/themes/am_purple.scss",
+    "./awesome-marp/themes/am_template.scss",
+  ],
+  "markdown.marp.pdf.noteAnnotations": false,
+  "markdown.marp.chromePath": "",
+  "markdown.marp.outlineExtension": false
 }
