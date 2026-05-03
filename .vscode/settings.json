@@ -1,5 +1,5 @@
 {
-  "markdown.marp.html": true,
+  "markdown.marp.html": "default",
   "markdown.marp.themes": [
     "./awesome-marp/themes/am_blue.scss",
     "./awesome-marp/themes/am_green.scss",
@@ -10,6 +10,6 @@
     "./awesome-marp/themes/am_template.scss",
   ],
   "markdown.marp.pdf.noteAnnotations": false,
-  "markdown.marp.chromePath": "",
+  "markdown.marp.browserPath": "",
   "markdown.marp.outlineExtension": false
 }
